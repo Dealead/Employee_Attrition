@@ -1,8 +1,8 @@
-# Empoyee_Attrition
+# Employee_Attrition
 Classifying data based on attrition 
 
 
-An employee attrition data to predict the likelyhood of employee retention.
+An employee attrition data to predict the likelihood of employee retention.
 The following points should be noted:
 (1)   Since the data splits the employees into two: those who have left and existing employees,
       It is necessary to first add an 'Attrition' column and then bring them together as one solid dataset.
